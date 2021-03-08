@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615185778 source:c:\users\86136\documents\github\c_stu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+
